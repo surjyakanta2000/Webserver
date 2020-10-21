@@ -1,0 +1,37 @@
+[
+    {
+        "name":"SurjyaKanta Das",
+        "gmail":"surjyakanta723@gmail.com",
+        "phone":"6295356761",
+        "password":"123",
+        "age":"20"
+    },
+    {
+        "name":"Anand Sah",
+        "gmail":"anand.sah@gmail.com",
+        "phone":"9298357765",
+        "password":"@145",
+        "age":"21"
+    },
+    {
+        "name":"Alok Kr Maity",
+        "gmail":"alok.maity@gmail.com",
+        "phone":"9775866168",
+        "password":"alok@12",
+        "age":"22"
+    },
+    {
+        "name":"Soumyajit Maity",
+        "gmail":"maity.soumyajit723@gmail.com",
+        "phone":"7603775483",
+        "password":"maity@soumya",
+        "age":"24"
+    },
+    {
+        "name":"Sukanta Dinda",
+        "gmail":"sukanta.din@gmail.com",
+        "phone":"8119554276",
+        "password":"dinda@1q2s",
+        "age":"20"
+    }
+]
